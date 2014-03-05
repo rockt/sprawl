@@ -1,11 +1,12 @@
 [0m[[0mdebug[0m] [0mCustom package for R class: 'rockt.sprawl'[0m
 [0m[[0mdebug[0m] [0mCustom package for R class: 'rockt.sprawl'[0m
-[0m[[0mdebug[0m] [0mcommand: /usr/local/Cellar/android-sdk/22.3/build-tools/19.0.2/aapt package -f --no-crunch -I /usr/local/Cellar/android-sdk/22.3/platforms/android-19/android.jar -M /Users/rockt/workspace/sprawl/bin/AndroidManifest.xml -S /Users/rockt/workspace/sprawl/bin/resources/res -A /Users/rockt/workspace/sprawl/bin/assets -m -J /Users/rockt/workspace/sprawl/gen -G /Users/rockt/workspace/sprawl/bin/proguard.txt --custom-package rockt.sprawl[0m
-[0m[[0mdebug[0m] [0mcommand: /usr/local/Cellar/android-sdk/22.3/build-tools/19.0.2/aapt package -f --no-crunch -I /usr/local/Cellar/android-sdk/22.3/platforms/android-19/android.jar -M /Users/rockt/workspace/sprawl/bin/AndroidManifest.xml -S /Users/rockt/workspace/sprawl/bin/resources/res -A /Users/rockt/workspace/sprawl/bin/assets -m -J /Users/rockt/workspace/sprawl/gen -F /Users/rockt/workspace/sprawl/bin/resources-release.ap_ -G /Users/rockt/workspace/sprawl/bin/proguard.txt --custom-package rockt.sprawl[0m
+[0m[[0mdebug[0m] [0mcommand: /usr/local/Cellar/android-sdk/22.3/build-tools/19.0.2/aapt package -f --no-crunch -I /usr/local/Cellar/android-sdk/22.3/platforms/android-19/android.jar -M /Users/rockt/workspace/sprawl/bin/AndroidManifest.xml -S /Users/rockt/workspace/sprawl/bin/resources/res -A /Users/rockt/workspace/sprawl/bin/assets -m -J /Users/rockt/workspace/sprawl/gen -G /Users/rockt/workspace/sprawl/bin/proguard.txt --debug-mode --custom-package rockt.sprawl[0m
+[0m[[0mdebug[0m] [0mcommand: /usr/local/Cellar/android-sdk/22.3/build-tools/19.0.2/aapt package -f --no-crunch -I /usr/local/Cellar/android-sdk/22.3/platforms/android-19/android.jar -M /Users/rockt/workspace/sprawl/bin/AndroidManifest.xml -S /Users/rockt/workspace/sprawl/bin/resources/res -A /Users/rockt/workspace/sprawl/bin/assets -m -J /Users/rockt/workspace/sprawl/gen -F /Users/rockt/workspace/sprawl/bin/resources-debug.ap_ -G /Users/rockt/workspace/sprawl/bin/proguard.txt --debug-mode --custom-package rockt.sprawl[0m
 [0m[[0mdebug[0m] [0mDex inputs: [/Users/rockt/workspace/sprawl/bin/classes.proguard.jar][0m
 [0m[[0mdebug[0m] [0mcommand: /usr/local/Cellar/android-sdk/22.3/build-tools/19.0.2/dx -JXmx1024m --dex --incremental --no-strict --output /Users/rockt/workspace/sprawl/bin/classes.dex /Users/rockt/workspace/sprawl/bin/classes.proguard.jar[0m
-[0m[[0mdebug[0m] [0mPackaging sprawl-release-unsigned.apk[0m
-[0m[[0mdebug[0m] [0m/Users/rockt/workspace/sprawl/bin/resources-release.ap_:[0m
+[0m[[0mdebug[0m] [0mMerged dex A (4 defs/1.6KiB) with dex B (4 defs/1.5KiB). Result is 4 defs/2.9KiB. Took 0.0s[0m
+[0m[[0mdebug[0m] [0mPackaging sprawl-debug-unaligned.apk[0m
+[0m[[0mdebug[0m] [0m/Users/rockt/workspace/sprawl/bin/resources-debug.ap_:[0m
 [0m[[0mdebug[0m] [0m=> res/layout/main.xml[0m
 [0m[[0mdebug[0m] [0m=> AndroidManifest.xml[0m
 [0m[[0mdebug[0m] [0m=> resources.arsc[0m
