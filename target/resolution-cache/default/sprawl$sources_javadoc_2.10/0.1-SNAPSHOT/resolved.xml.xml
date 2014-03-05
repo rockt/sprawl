@@ -4,7 +4,7 @@
 		module="sprawl$sources_javadoc_2.10"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20140227141825"
+		publication="20140305222547"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

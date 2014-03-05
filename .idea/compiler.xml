@@ -19,5 +19,8 @@
       </profile>
     </annotationProcessing>
   </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-bootclasspath /usr/local/Cellar/android-sdk/22.3/platforms/android-19/android.jar -source 1.5 -target 1.5 -g" />
+  </component>
 </project>
 

@@ -1,0 +1,17 @@
+[0m[[0mdebug[0m] [0mCustom package for R class: 'rockt.sprawl'[0m
+[0m[[0mdebug[0m] [0mCustom package for R class: 'rockt.sprawl'[0m
+[0m[[0mdebug[0m] [0mcommand: /usr/local/Cellar/android-sdk/22.3/build-tools/19.0.2/aapt package -f --no-crunch -I /usr/local/Cellar/android-sdk/22.3/platforms/android-19/android.jar -M /Users/rockt/workspace/sprawl/bin/AndroidManifest.xml -S /Users/rockt/workspace/sprawl/bin/resources/res -A /Users/rockt/workspace/sprawl/bin/assets -m -J /Users/rockt/workspace/sprawl/gen -G /Users/rockt/workspace/sprawl/bin/proguard.txt --custom-package rockt.sprawl[0m
+[0m[[0mdebug[0m] [0mcommand: /usr/local/Cellar/android-sdk/22.3/build-tools/19.0.2/aapt package -f --no-crunch -I /usr/local/Cellar/android-sdk/22.3/platforms/android-19/android.jar -M /Users/rockt/workspace/sprawl/bin/AndroidManifest.xml -S /Users/rockt/workspace/sprawl/bin/resources/res -A /Users/rockt/workspace/sprawl/bin/assets -m -J /Users/rockt/workspace/sprawl/gen -F /Users/rockt/workspace/sprawl/bin/resources-release.ap_ -G /Users/rockt/workspace/sprawl/bin/proguard.txt --custom-package rockt.sprawl[0m
+[0m[[0mdebug[0m] [0mDex inputs: [/Users/rockt/workspace/sprawl/bin/classes.proguard.jar][0m
+[0m[[0mdebug[0m] [0mcommand: /usr/local/Cellar/android-sdk/22.3/build-tools/19.0.2/dx -JXmx1024m --dex --incremental --no-strict --output /Users/rockt/workspace/sprawl/bin/classes.dex /Users/rockt/workspace/sprawl/bin/classes.proguard.jar[0m
+[0m[[0mdebug[0m] [0mPackaging sprawl-release-unsigned.apk[0m
+[0m[[0mdebug[0m] [0m/Users/rockt/workspace/sprawl/bin/resources-release.ap_:[0m
+[0m[[0mdebug[0m] [0m=> res/layout/main.xml[0m
+[0m[[0mdebug[0m] [0m=> AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0m=> resources.arsc[0m
+[0m[[0mdebug[0m] [0m=> res/drawable-hdpi/ic_launcher.png[0m
+[0m[[0mdebug[0m] [0m=> res/drawable-ldpi/ic_launcher.png[0m
+[0m[[0mdebug[0m] [0m=> res/drawable-mdpi/ic_launcher.png[0m
+[0m[[0mdebug[0m] [0m=> res/drawable-xhdpi/ic_launcher.png[0m
+[0m[[0mdebug[0m] [0m/Users/rockt/workspace/sprawl/bin/classes.dex => classes.dex[0m
+[0m[[0mdebug[0m] [0mNative folder: /Users/rockt/workspace/sprawl/bin/jni[0m

@@ -1,2 +1,6 @@
 compile
 exit
+android:package-release
+android:package
+android
+exit

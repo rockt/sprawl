@@ -1,0 +1,3 @@
+[0m[[0mdebug[0m] [0mjars to process for resources: List()[0m
+[0m[[0mdebug[0m] [0mbldr.packageApk(/Users/rockt/workspace/sprawl/bin/resources-release.ap_, /Users/rockt/workspace/sprawl/bin/classes.dex, List(), null, /Users/rockt/workspace/sprawl/bin/jni, false, null, /Users/rockt/workspace/sprawl/bin/sprawl-release-unsigned.apk)[0m
+[0m[[0minfo[0m] [0mPackaged: sprawl-release-unsigned.apk (34.41KB)[0m

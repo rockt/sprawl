@@ -4,7 +4,7 @@
 		module="sprawl_2.10"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20140227141801"
+		publication="20140305221623"
 	>
 		<description>
 		sprawl
@@ -27,8 +27,6 @@
 	</configurations>
 	<publications>
 		<artifact name="sprawl_2.10" type="pom" ext="pom" conf="pom"/>
-		<artifact name="sprawl_2.10" type="jar" ext="jar" conf="compile"/>
-		<artifact name="sprawl_2.10" type="src" ext="jar" conf="sources" e:classifier="sources"/>
 		<artifact name="sprawl_2.10" type="doc" ext="jar" conf="docs" e:classifier="javadoc"/>
 	</publications>
 	<dependencies>

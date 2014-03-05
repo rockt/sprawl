@@ -7,7 +7,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for default#sprawl_2.10;0.1-SNAPSHOT [compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#sprawl_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.10.3 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6fc0d1b6[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@39388b6e[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.3[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: org.scala-lang#scala-library;2.10.3[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.10.3 in sbt-chain[0m
@@ -132,7 +132,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.10.3!scala-reflect.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.3!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 57ms :: artifacts dl 2ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 82ms :: artifacts dl 4ms[0m
 [0m[[0mdebug[0m] [0m	report for default#sprawl_2.10;0.1-SNAPSHOT compile produced in /Users/rockt/workspace/sprawl/target/resolution-cache/reports/default-sprawl_2.10-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#sprawl_2.10;0.1-SNAPSHOT runtime produced in /Users/rockt/workspace/sprawl/target/resolution-cache/reports/default-sprawl_2.10-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#sprawl_2.10;0.1-SNAPSHOT test produced in /Users/rockt/workspace/sprawl/target/resolution-cache/reports/default-sprawl_2.10-test.xml[0m
@@ -146,5 +146,5 @@
 [0m[[0mdebug[0m] [0m	report for default#sprawl_2.10;0.1-SNAPSHOT docs produced in /Users/rockt/workspace/sprawl/target/resolution-cache/reports/default-sprawl_2.10-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#sprawl_2.10;0.1-SNAPSHOT pom produced in /Users/rockt/workspace/sprawl/target/resolution-cache/reports/default-sprawl_2.10-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#sprawl_2.10;0.1-SNAPSHOT scala-tool produced in /Users/rockt/workspace/sprawl/target/resolution-cache/reports/default-sprawl_2.10-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (57ms resolve - 2ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (82ms resolve - 4ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
